@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Buddy App</string>
+
+    <!-- Login / register -->
+    <string name="login_title">Buddy App</string>
+    <string name="login_subtitle">Sign in to manage your friends</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log in</string>
+    <string name="action_register">Create account</string>
+    <string name="toggle_to_register">New here? Create an account</string>
+    <string name="toggle_to_login">Already have an account? Log in</string>
+
+    <!-- Register screen -->
+    <string name="register_title">Create account</string>
+    <string name="register_subtitle">Set up your owner account</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+
+    <!-- Friends list -->
+    <string name="title_friends">Friends</string>
+    <string name="action_logout">Log out</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search by name, phone or email</string>
+    <string name="empty_search_title">No matches</string>
+    <string name="empty_search_hint">Try a different search</string>
+    <string name="action_reports">Reports</string>
+
+    <!-- Reports -->
+    <string name="title_reports">Reports</string>
+    <string name="report_gender_title">Friends by gender</string>
+    <string name="report_state_title">Friends by state</string>
+    <string name="chart_no_data">No data yet — add some friends</string>
+    <string name="empty_friends_title">No friends yet</string>
+    <string name="empty_friends_hint">Tap + to add your first friend</string>
+    <string name="cd_friend_photo">Friend photo</string>
+    <string name="fab_add_friend">Add friend</string>
+
+    <!-- Add / edit friend -->
+    <string name="title_add_friend">Add friend</string>
+    <string name="title_edit_friend">Edit friend</string>
+    <string name="action_save">Save</string>
+    <string name="action_select_photo">Select photo</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="prompt_phone">Phone number</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_address1">House / lot / floor &amp; building</string>
+    <string name="prompt_address2">Number, street / district</string>
+    <string name="prompt_postcode">Postcode</string>
+    <string name="prompt_city">City / locality</string>
+    <string name="prompt_state">State</string>
+    <string name="friend_saved">Friend saved</string>
+
+    <!-- Validation -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_gender_required">Please select a gender</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_states_loading">States are still loading, try again</string>
+
+    <!-- Detail / delete -->
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_email">Email</string>
+    <string name="label_address">Address</string>
+    <string name="label_state">State</string>
+    <string name="confirm_delete_title">Delete friend?</string>
+    <string name="confirm_delete_message">This will permanently remove this friend.</string>
+    <string name="friend_deleted">Friend deleted</string>
+    <string name="not_provided">Not provided</string>
+
+    <string name="action_ask_ai">Ask AI</string>
+    <string name="title_chat">Ask AI</string>
+    <string name="hint_ask">Ask about your friends…</string>
+    <string name="action_send">Send</string>
+    <string name="chat_greeting">Hi! Ask me anything about your saved friends.</string>
+</resources>
